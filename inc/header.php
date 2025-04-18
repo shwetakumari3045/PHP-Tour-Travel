@@ -12,8 +12,8 @@
 </head>
 <body>
 <header class="main-header  sticky-top postition-sticky">
-    <div class="header-top-bar" style="background-color: #E9762B;">
-        <div class="container">
+    <div class="header-top-bar  " style="background-color: #E9762B;">
+        <div class="container px-0" style="width: 100%;">
         
             <div class="col-md-4 col-sm-4 ">
                 <p>
@@ -23,7 +23,7 @@
             <div class="col-md-4 col-sm-4">
                 <p>faujitourandtravels@gmail.com</p>
             </div>
-            <div class="col-md-4 col-sm-4">
+            <div class="col-md-4 col-sm-4 d-flex  justify-content-end">
     <a href="#" target="_blank" class="text-white me-3">
         <i class="fab fa-facebook-f"></i>
     </a>
